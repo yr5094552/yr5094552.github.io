@@ -14,7 +14,7 @@ I made this site to write down what is going on in my life before I forget it. I
 
 Email: **yr5094552[at]gmail[dot]com**
 
-Public Key (_so that you can send my some encrypted cat pics_) -
+Public Key (_so that you can send me encrypted cat pics_) -
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
