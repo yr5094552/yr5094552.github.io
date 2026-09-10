@@ -17,7 +17,7 @@ export interface DateFormat {
 // Site-wide configuration.
 export const SITE_TITLE = "Yellow Rose ʕ•ᴥ•ʔ";
 export const SITE_DESCRIPTION = "here i rant, i cope, i hope, i i i...";
-export const SITE_URL = "#";
+export const SITE_URL = "https://yr5094552.github.io/";
 export const SITE_LANG = "en";
 
 export const DATE_FORMAT: DateFormat = {
