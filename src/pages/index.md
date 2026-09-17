@@ -10,6 +10,8 @@ Hi, I'm Yellow Rose (_not my real name btw_).
 
 I spawn up this site to write down what is going on in my life before I forget it. I am trying to learn how to live a little better, and maybe writing will help.
 
+**special note: views & opinions are my own.**
+
 # Contact
 
 Email: **yr5094552[at]gmail[dot]com**
