@@ -15,7 +15,7 @@ export interface DateFormat {
 }
 
 // Site-wide configuration.
-export const SITE_TITLE = "𒉭 Yellow Rose 𒉭";
+export const SITE_TITLE = "Yellow Rose 𓁹 𓁹";
 export const SITE_DESCRIPTION = "here i rant, i cope, i hope, i i i...";
 export const SITE_URL = "https://yr5094552.github.io/";
 export const SITE_LANG = "en";
@@ -36,5 +36,5 @@ export const NAV_ITEMS: LinkItem[] = [
   { label: "Blog", href: "/blog/" },
 ];
 export const FOOTER_ITEMS: FooterItem[] = [
-  { label: "Made with ❤️ for ❤️s" },
+  { label: "made by me for me" },
 ];
