@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Base.astro
-title: 𒉭 Yellow Rose 𒉭
+title: Yellow Rose 𓁹 𓁹
 description: A small journal about learning how to live.
 ---
 
